@@ -1,0 +1,6 @@
+{
+  "name": "Segurança Institucional PNA",
+  "description": "Plataforma oficial da Direcção de Doutrina e Ensino da Polícia (DEPOL - PNA) para saneamento de registos cadastrais, validação nominal e controlo de formandos e instrutores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
